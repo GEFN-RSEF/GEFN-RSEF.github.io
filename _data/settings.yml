@@ -1,9 +1,10 @@
 menu:
-- {name: 'Notícias', url: '/noticias'}
-- {name: 'Premios GEFN-ATI', url: '/premios'}
-- {name: 'Junta', url: '/junta'}
-#- {name: 'courses', url: '/courses'}
-#- {name: 'cv', url: '/cv'}
+#- {name: 'Notícias', url: '/noticias'}
+#- {name: 'Premios GEFN-ATI', url: '/premios'}
+#- {name: 'Junta', url: '/junta'}
+- {name: 'people', url: '/people'}
+- {name: 'courses', url: '/courses'}
+- {name: 'cv', url: '/cv'}
 - {name: 'Contacto', url: '/Contacto'}
 
 junta:
