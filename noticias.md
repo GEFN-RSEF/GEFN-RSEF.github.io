@@ -1,5 +1,0 @@
----
-layout: noticias
-title: "Notícias"
----
-
