@@ -1,12 +1,12 @@
 menu:
-- {name: 'noticias', url: '/noticias'}
+- {name: 'Notícias', url: '/noticias'}
 - {name: 'Premios GEFN-ATI', url: '/premios'}
-- {name: 'junta', url: '/junta'}
+- {name: 'Junta', url: '/junta'}
 #- {name: 'courses', url: '/courses'}
 #- {name: 'cv', url: '/cv'}
-- {name: 'contacto', url: '/contacto'}
+- {name: 'Contacto', url: '/Contacto'}
 
-people:
+junta:
 - {name: 'Arnau Rios (Presidente)', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
 - {name: 'Vicepresidente', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 - {name: 'Tesorero', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
