@@ -9,7 +9,9 @@ community and to represent our member's interests across different instances of 
 This website collects relevant information about our specialised group. 
 Do not hesitate to contact us if you have new ideas you would like to develop. 
 
-# Bienvenida
+The GEFN Board
+
+### Bienvenida
 Bienvenidos/as a la página del web del Grupo Especializado en Física Nuclear. 
 Somos un Grupo Especializado dentro de la <a href="https://rsef.es/">Real Sociedad Española de Física</a>.
 Nuestra misión es hacer visible la Física Nuclear en España, proveer a nuestra comunidad de oportunidades para relacionarse
