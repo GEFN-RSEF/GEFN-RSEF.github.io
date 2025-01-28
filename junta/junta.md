@@ -1,4 +1,0 @@
----
-layout: junta
-title: "Junta"
----
