@@ -22,6 +22,12 @@ courses:
 - {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
+premios:
+- {name: '2021-23', url: 'vector-calculus'}
+- {name: 'Ediciones anteriores', url: 'anteriores'}
+#- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+
 social:
 #- {icon: 'github', link: 'https://github.com/LeNPaul'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
