@@ -1,4 +1,4 @@
 ---
-layout: courses
-title: "Courses"
+layout: premios
+title: "Premios GEFN-ATI"
 ---
