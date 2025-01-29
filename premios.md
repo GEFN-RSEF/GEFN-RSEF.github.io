@@ -13,7 +13,8 @@ las tesis realizadas en el campo de la Física Nuclear
 que hayan sido presentadas y defendidas a lo largo de un cierto período de tiempo. 
 
 La convocatoria que se abre en 2024 corresponde a tesis doctorales y de máster presentadas entre 
-2021 y 2023, y está regida por las bases adjuntas (<a >fichero pdf, 10kB</a>) 
+2021 y 2023, y está regida por las bases adjuntas (<a >fichero pdf, 330kB</a>) 
+[fichero pdf, 330kB](/premios/2021_23/Bases.pdf)
 
 #### Course Information
 [Course Outline](/courses/vector-calculus/Sample_Course_Outline.pdf)
