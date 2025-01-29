@@ -3,9 +3,9 @@ menu:
 - {name: 'Notícias', url: '/noticias'}
 #- {name: 'people', url: '/people'}
 - {name: 'Junta', url: '/junta'}
-- {name: 'courses', url: '/courses'}
 - {name: 'Premios GEFN-ATI', url: '/premios'}
-- {name: 'cv', url: '/cv'}
+#- {name: 'courses', url: '/courses'}
+#- {name: 'cv', url: '/cv'}
 #- {name: 'Contacto', url: '/contact'}
 
 junta:
