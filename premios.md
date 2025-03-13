@@ -45,9 +45,9 @@ Las candidaturas deberán ser presentadas por los autores de las Tesis o los Tra
 a la dirección del GEFN  <a href="mailto:gefn@nuclear.fis.ucm.es">gefn@nuclear.fis.ucm.es.</a> La presentación de las 
 candidaturas deberá incluir:
 - **Formulario de solicitud** del premio que especificará la categoría a la que se opta, disponibles en formato 
-[Word](./premios/2021_23/FORMULARIO-SOLICITUD-GEFN-ATI-2025.docx) 
+[Word, 459kB](./premios/2021_23/FORMULARIO-SOLICITUD-GEFN-ATI-2025.docx) 
 aquí y en formato 
-[pdf](./premios/2021_23/FORMULARIO-SOLICITUD-GEFN-ATI-2025.pdf) 
+[pdf, 6369kB](./premios/2021_23/FORMULARIO-SOLICITUD-GEFN-ATI-2025.pdf) 
 aquí.
 - **Currículum Vitae** del autor (incluyendo su ORCID o Researcher ID o Scopus ID).
 - **Memoria explicativa** del contenido de la Tesis o del Trabajo de Fin de Máster, argumentando la calidad e impacto de esta (máximo 2 páginas).
