@@ -3,6 +3,9 @@ layout: page
 title: "Ediciones anteriores de los Premios GEFN-ATI"
 ---
 
+Podéis encontrar información sobre las ediciones anteriores de los Premios
+GEFN-ATI en la antigua página web del GEFN [aquí](https://igfae.usc.es/gefn).
+
 #### Convocatoria 2022
 
 [Link aquí](https://igfae.usc.es/gefn/convocatoria-2022/)
@@ -14,5 +17,5 @@ title: "Ediciones anteriores de los Premios GEFN-ATI"
 
 #### Convocatoria 2016
 
-[Link aquí](https://igfae.usc.es/gefn/convocatoria-2016/)
+[Link aquí](https://igfae.usc.es/gefn/convocatoria-2017/)
 
