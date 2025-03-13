@@ -7,16 +7,11 @@ y la calidad del trabajo realizado por los jóvenes investigadores en el campo d
 El premio busca fomentar la investigación en este campo, así como promover la excelencia académica y científica 
 en las universidades y centros de investigación españoles. 
 
-Los Premios del Grupo Especializado de Física Nuclear (GEFN) y ATI SISTEMAS tienen como objetivo reconocer 
-y premiar el esfuerzo y la calidad del trabajo realizado por los investigadores jóvenes en en el campo de 
-la Física Nuclear. El premio busca fomentar la investigación en este campo, así como promover la excelencia 
-académica y científica en las universidades y centros de investigación españoles. 
-
-
-La filosofía de este galardón es premiar, según criterios objetivos,
-las tesis realizadas en el campo de la Física Nuclear
-que hayan sido presentadas y defendidas a lo largo de un cierto período de tiempo. 
+Las tesis que opten a este concurso deberán enviarse antes del **30 de marzo de 2025**. 
+El plazo de evaluación será de 6 meses a partir de esa fecha. El anuncio de los ganadores se hará público mediante 
+esta página web.
 
 La convocatoria que se abre en 2025 corresponde a tesis doctorales y de máster presentadas entre 
-2021 y 2023, y está regida por las bases adjuntas [fichero pdf, 330kB](./premios/2021_23/Bases-Premios-GEFN-ATI-2025_firmadas.pdf).
+2021 y 2023, y está regida por las bases adjuntas [fichero pdf, 330kB](/premios/2021_23/Bases-Premios-GEFN-ATI-2025_firmadas.pdf).
+
 
