@@ -9,7 +9,7 @@ to raise the profile and publicise the latest research of the national scientist
 to provide networking and recognition opportunities for our 
 community. 
 This website collects relevant information about our specialised group. 
-Do not hesitate to contact us via email  <a href="mailto:gefn@nuclear.fis.ucm.es.">gefn@nuclear.fis.ucm.es</a> if you have new ideas you would like to develop. 
+Do not hesitate to contact us via email  <a href="mailto:gefn@nuclear.fis.ucm.es">gefn@nuclear.fis.ucm.es</a> if you have new ideas you would like to develop. 
 
 <h3 class="fw-bold">Bienvenida</h3>
 
@@ -20,7 +20,7 @@ dar a conocer los últimos desarrollos de investigación de los científicos nac
 fomentar la cohesión de la comunidad docente e investigadora en Física Nuclear.
 En esta página encontrarás información relativa a nuestro grupo y las actividades que desarrollamos. 
 Si deseas más información  o tienes nuevas ideas para desarrollar con nosotros, no dudes en contactarnos
-a través de nuestro email <a href="mailto:gefn@nuclear.fis.ucm.es.">gefn@nuclear.fis.ucm.es.</a>
+a través de nuestro email <a href="mailto:gefn@nuclear.fis.ucm.es">gefn@nuclear.fis.ucm.es.</a>
 
 
 Junta de Gobierno de la GEFN
