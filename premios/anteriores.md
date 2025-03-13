@@ -1,34 +1,18 @@
 ---
 layout: page
-title: "Quantum Mechanics"
+title: "Ediciones anteriores de los Premios GEFN-ATI"
 ---
 
-#### Course Information
+#### Convocatoria 2022
 
-[Course Outline](/courses/quantum-mechanics/Sample_Course_Outline.pdf)
+[Link aquí](https://igfae.usc.es/gefn/convocatoria-2022/)
 
-#### Lecture Notes
 
-[Lecture 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+#### Convocatoria 2019
 
-[Lecture 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+[Link aquí](https://igfae.usc.es/gefn/convocatoria-2019/)
 
-[Lecture 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
+#### Convocatoria 2016
 
-#### Homework
+[Link aquí](https://igfae.usc.es/gefn/convocatoria-2016/)
 
-[Homework 1](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 2](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-[Homework 3](/courses/quantum-mechanics/Sample_Lecture_Notes.pdf)
-
-#### Midterms
-
-[Midterm 1](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-[Midterm 2](/courses/quantum-mechanics/Sample_Midterm.pdf)
-
-#### Exams
-
-[Exam 1](/courses/quantum-mechanics/Sample_Exam.pdf)
