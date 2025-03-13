@@ -15,7 +15,6 @@ esta página web.
 La convocatoria que se abre en 2025 corresponde a tesis doctorales y de máster presentadas entre 
 2021 y 2023, y está regida por las bases adjuntas [fichero pdf, 330kB](/premios/2021_23/Bases-Premios-GEFN-ATI-2025_firmadas.pdf).
 
-
 #### Categorías de los Premios
 
 Se otorgarán premios en las siguientes 3 categorías que cubren el amplio espectro de investigación de la comunidad de Física Nuclear en España:
