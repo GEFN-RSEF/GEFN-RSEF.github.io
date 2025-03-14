@@ -11,6 +11,7 @@ junta:
 - {name: 'Arnau Rios Huguet', 
     title: 'Presidente', 
     institution: 'Universidad de Barcelona', 
+    department: 'Departamento de Física Cuántica y Astrofísica + Instituto de Ciencias del Cosmos', 
     image: 'junta/Presidente.jpg', 
     url: 'https://sites.google.com/view/arnaurios/home', 
     text: 'Presidente.txt'}
@@ -18,10 +19,16 @@ junta:
     title: 'Vicepresidente', 
     department: 'Physics & Astronomy', 
     institution: 'Universidad Complutense de Madrid', 
-    image: 'assets/img/primary-investigator.jpg', 
-    url: 'primary-investigator', 
+    image: 'junta/Vicepresidente.jpg', 
+    url: 'https://produccioncientifica.ucm.es/investigadores/263563/detalle', 
     text: 'Vicepresidente.txt'}
-
+- {name: 'José Antonio Lay Valera', 
+    title: 'Vicepresidente', 
+    department: 'Physics & Astronomy', 
+    institution: 'Universidad Complutense de Madrid', 
+    image: 'junta/Tesorero.png', 
+    url: 'https://prisma.us.es/investigador/4730', 
+    text: 'Tesorero.txt'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
