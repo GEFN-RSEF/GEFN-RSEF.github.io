@@ -35,7 +35,21 @@ junta:
     institution: 'Universidad Complutense de Madrid', 
     image: 'junta/Vocal1.jpg', 
     url: 'https://produccioncientifica.ucm.es/investigadores/141410/detalle', 
-    text: 'Tesorero.txt'}
+    text: 'Vocal1.txt'}
+- {name: 'Saúl Beceiro Novo', 
+    title: 'Vocal', 
+    department: 'Departamento Física y Ciencias de la Tierra', 
+    institution: 'Universidad de la Coruña', 
+    image: 'junta/Vocal2.jpg', 
+    url: 'https://pdi.udc.es/es/File/Pdi/C64YM', 
+    text: 'Vocal2.txt'}
+- {name: 'Ariel Tarifeño Saldivia', 
+    title: 'Vocal', 
+    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
+    institution: 'Instituto de Física Corpuscular (IFIC-CSIC)', 
+    image: 'junta/Vocal3.jpg', 
+    url: 'https://webific.ific.uv.es/web/content/tarife%C3%B1o-saldivia-ariel', 
+    text: 'Vocal3.txt'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
