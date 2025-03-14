@@ -17,7 +17,7 @@ junta:
     text: 'Presidente.txt'}
 - {name: 'José A. Briz', 
     title: 'Vicepresidente', 
-    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
+    department: 'Departamento de Estructura de la Materia, Física Térmica y Electrónica', 
     institution: 'Universidad Complutense de Madrid', 
     image: 'junta/Vicepresidente.jpg', 
     url: 'https://produccioncientifica.ucm.es/investigadores/263563/detalle', 
@@ -31,7 +31,7 @@ junta:
     text: 'Tesorero.txt'}
 - {name: 'Paula Ibáñez García', 
     title: 'Vocal', 
-    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
+    department: 'Departamento de Estructura de la Materia, Física Térmica y Electrónica', 
     institution: 'Universidad Complutense de Madrid', 
     image: 'junta/Vocal1.jpg', 
     url: 'https://produccioncientifica.ucm.es/investigadores/141410/detalle', 
@@ -45,9 +45,10 @@ junta:
     text: 'Vocal2.txt'}
 - {name: 'Ariel Tarifeño Saldivia', 
     title: 'Vocal', 
-    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
+    department: 'Departamento de Física Experimental', 
     institution: 'Instituto de Física Corpuscular (IFIC-CSIC)', 
     image: 'junta/Vocal3.jpg', 
+    url: 'https://webific.ific.uv.es/web/content/tarife%C3%B1o-saldivia-ariel', 
     text: 'Vocal3.txt'}
 
 people:
