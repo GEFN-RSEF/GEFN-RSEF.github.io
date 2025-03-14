@@ -15,13 +15,14 @@ layout: default
     <p><a href="{{ site.github.url }}/junta/{{ person.url }}">More info</a></p>
   </div>
 
+  <div class="col-md-2">
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+  </div>
+
   <div class="col-md-6">
       <embed src="{{ site.github.url }}/junta/{{ person.text }}" width="100%">
   </div>
 
-  <div class="col-md-2">
-    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
-  </div>
 
 </div>
 {% endfor %}
