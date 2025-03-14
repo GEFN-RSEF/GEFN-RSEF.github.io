@@ -10,8 +10,17 @@ menu:
 junta:
 - {name: 'Arnau Rios Huguet', 
     title: 'Presidente', 
-    institution: 'Universidad de Barcelona', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator', text: 'Presidente.txt'}
-- {name: 'José A. Briz', title: 'Vicepresidente', department: 'Physics & Astronomy', institution: 'Universidad Complutense de Madrid', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator', text: 'Vicepresidente.txt'}
+    institution: 'Universidad de Barcelona', 
+    image: 'junta/Presidente.jpg', 
+    url: 'https://sites.google.com/view/arnaurios/home', 
+    text: 'Presidente.txt'}
+- {name: 'José A. Briz', 
+    title: 'Vicepresidente', 
+    department: 'Physics & Astronomy', 
+    institution: 'Universidad Complutense de Madrid', 
+    image: 'assets/img/primary-investigator.jpg', 
+    url: 'primary-investigator', 
+    text: 'Vicepresidente.txt'}
 
 
 people:
