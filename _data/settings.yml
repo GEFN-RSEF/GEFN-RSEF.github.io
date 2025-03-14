@@ -17,17 +17,24 @@ junta:
     text: 'Presidente.txt'}
 - {name: 'José A. Briz', 
     title: 'Vicepresidente', 
-    department: 'Physics & Astronomy', 
+    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
     institution: 'Universidad Complutense de Madrid', 
     image: 'junta/Vicepresidente.jpg', 
     url: 'https://produccioncientifica.ucm.es/investigadores/263563/detalle', 
     text: 'Vicepresidente.txt'}
 - {name: 'José Antonio Lay Valera', 
     title: 'Vicepresidente', 
-    department: 'Physics & Astronomy', 
-    institution: 'Universidad Complutense de Madrid', 
+    department: 'Física Atómica, Molecular y Nuclear', 
+    institution: 'Universidad de Sevilla', 
     image: 'junta/Tesorero.png', 
     url: 'https://prisma.us.es/investigador/4730', 
+    text: 'Tesorero.txt'}
+- {name: 'Paula Ibáñez García', 
+    title: 'Vocal', 
+    department: 'Estructura de la Materia, Física Térmica y Electrónica', 
+    institution: 'Universidad Complutense de Madrid', 
+    image: 'junta/Tesorero.png', 
+    url: 'https://produccioncientifica.ucm.es/investigadores/141410/detalle', 
     text: 'Tesorero.txt'}
 
 people:
