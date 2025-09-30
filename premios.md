@@ -19,9 +19,9 @@ Tras la evaluación de las candidaturas presentadas, la Comisión Evaluadora ha 
 + **Alejandro López Montes** (University of Bern y University Hospital of Bern), por la tesis doctoral Improved Techniques for PET Imaging, defendida en Julio de 2021 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear).
 
 2. ***Premios al Mejor Trabajo de Fin de Máster (150€)***
-•	**David Palacios Suárez-Bustamante** (IGFAE), por el Trabajo de Fin de Máster Study of nuclear structure of 76,77Zn populated from β decay of 77Cu at ISOLDE, CERN, presentado en Septiembre de 2023 en la Universidad Complutense de Madrid (categoría de Física Nuclear Experimental).
-•	**Dorian Frycz** (Universidad de Barcelona),  por el Trabajo de Fin de Máster Shape coexistence and superdeformation in 28Si, presentado en Octubre de 2023 en la Universidad de Barcelona (categoría de Física Nuclear Teórica).
-•	**Amanda Nerio Aguirre** (Universidad Complutense de Madrid) por el Trabajo de Fin de Máster Experimental tests of a scanner prototype for medical imaging with protons developed at IEM-CSIC, presentado en Septiembre de 2021 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear).
++ **David Palacios Suárez-Bustamante** (IGFAE), por el Trabajo de Fin de Máster Study of nuclear structure of 76,77Zn populated from β decay of 77Cu at ISOLDE, CERN, presentado en Septiembre de 2023 en la Universidad Complutense de Madrid (categoría de Física Nuclear Experimental).
++ **Dorian Frycz** (Universidad de Barcelona),  por el Trabajo de Fin de Máster Shape coexistence and superdeformation in 28Si, presentado en Octubre de 2023 en la Universidad de Barcelona (categoría de Física Nuclear Teórica).
++ **Amanda Nerio Aguirre** (Universidad Complutense de Madrid) por el Trabajo de Fin de Máster Experimental tests of a scanner prototype for medical imaging with protons developed at IEM-CSIC, presentado en Septiembre de 2021 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear).
 
 Además de estos premios, la Comisión Evaluadora ha tenido a bien conceder los siguientes Accésits:
 3. **Accésits (Diploma sin dotación económica)**
