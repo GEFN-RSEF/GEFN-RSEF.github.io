@@ -3,7 +3,7 @@ layout: premios
 title: "Premios GEFN-ATI"
 ---
 
-##### Ganadores de la Edición 2021-23
+#### Ganadores de la Edición 2021-23
 
 El Grupo Especializado de Física Nuclear (GEFN) de la Real Sociedad Española de Física, junto con ATI SISTEMAS, se complacen en anunciar los galardonados de los 
 **Premios GEFN-ATI Sistemas a Tesis Doctorales y a Trabajos de Fin de Máster en Física Nuclear 2021-2023**, destinados a reconocer la excelencia académica e investigadora en el ámbito de la Física Nuclear 
@@ -30,7 +30,7 @@ Además de estos premios, la Comisión Evaluadora ha tenido a bien conceder los 
 Estos galardones reflejan el compromiso de el GEFN y ATI con el fomento de la investigación joven y la promoción del talento emergente en física nuclear, reconociendo trabajos de alta calidad científica y técnica. 
 
 
-### Comisión Evaluadora
+##### Comisión Evaluadora
 La Junta del GEFN designo una Comisión Evaluadora compuesta por Marta Anguiano (Universidad de Granada), César Domingo Pardo (IFIC, CSIC), María José García Borge (IEM, CSIC), 
 José Enrique García Ramos (Universidad de Huelva), Joaquín López Herraiz (Universidad Complutense de Madrid), Àngels Ramos (Universidad de Barcelona) y José Luís Taín (IFIC, CSIC). 
 
