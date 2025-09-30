@@ -23,7 +23,7 @@ junta:
     url: 'https://produccioncientifica.ucm.es/investigadores/263563/detalle', 
     text: 'Vicepresidente.txt'}
 - {name: 'José Antonio Lay Valera', 
-    title: 'Vicepresidente', 
+    title: 'Secretario-Tesorero', 
     department: 'Física Atómica, Molecular y Nuclear', 
     institution: 'Universidad de Sevilla', 
     image: 'junta/Tesorero.png', 
