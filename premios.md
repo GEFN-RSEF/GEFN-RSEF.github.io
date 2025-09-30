@@ -11,7 +11,7 @@ de los investigadores más jóvenes de nuestro país.
 
 Tras la evaluación de las candidaturas presentadas, la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Física Nuclear Experimental, Física Nuclear Teórica y Aplicaciones de la Física Nuclear:
 1. ***Premios a la Mejor Tesis Doctoral (350€ + invitación para presentar trabajo)***
-+ **Juan Lois Fuentes** (FRIB, Michigan State University), por la tesis doctoral *Complete spectroscopy of 16C and 20O with solid and active targets using transfer reactions*, defendida en Julio de 2023 en la Universidad de Santiago de Compostela (categoría Física Nuclear Experimental).
++ **Juan Lois Fuentes** (FRIB, Michigan State University), por la tesis doctoral *Complete spectroscopy of <sup>16</sup>C and 20O with solid and active targets using transfer reactions*, defendida en Julio de 2023 en la Universidad de Santiago de Compostela (categoría Física Nuclear Experimental).
 + **Jesús José Domínguez-Palacios Durán** (Fiat Lux LLC), por la tesis doctoral *3D hybrid kinetic-MHD modelling of the interaction between Edge Localised Modes and Energetic Particles in the ASDEX Upgrade tokamak*, defendida en Noviembre de 2023 en la Universidad de Sevilla (categoría de Física Nuclear Teórica).
 + **Alejandro López Montes** (University of Bern y University Hospital of Bern), por la tesis doctoral *Improved Techniques for PET Imaging*, defendida en Julio de 2021 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear).
 
