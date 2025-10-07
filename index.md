@@ -23,5 +23,5 @@ Si deseas más información  o tienes nuevas ideas para desarrollar con nosotros
 a través de nuestro email <a href="mailto:gefn@nuclear.fis.ucm.es">gefn@nuclear.fis.ucm.es.</a>
 
 
-Junta de Gobierno de la GEFN
+Junta de Gobierno del GEFN
 
