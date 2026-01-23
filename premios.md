@@ -87,7 +87,7 @@ Los criterios de valoración incluirán:
 4. Interdisciplinaridad del trabajo y de sus resultados, incluyendo la potencial transferencia tecnológica
 5. Apertura de nuevas líneas de investigación
 
-##### Ficheros edición 2021-23:
+##### Ficheros edición 2024-25:
 - Bases del premio [Fichero pdf, 869kB](./premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
 - Formulario de Solicitud [Fichero Word, 472kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.docx) 
 - Formulario de Solicitud [Fichero pdf, 677kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.pdf) 
