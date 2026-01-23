@@ -88,9 +88,9 @@ Los criterios de valoración incluirán:
 5. Apertura de nuevas líneas de investigación
 
 ##### Ficheros edición 2021-23:
-- Bases del premio [Fichero pdf, 869kB](./premios/2024_25/Bases-Premios-GEFN-ATI-2425-firmadas.pdf).
+- Bases del premio [Fichero pdf, 869kB](./premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
 - Formulario de Solicitud [Fichero Word, 472kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.docx) 
-- Formulario de Solicitud [Fichero pdf, 677kB](./2024_25/premios/FORMULARIO-SOLICITUD-GEFN-ATI-2425.pdf) 
+- Formulario de Solicitud [Fichero pdf, 677kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.pdf) 
 
 
 
