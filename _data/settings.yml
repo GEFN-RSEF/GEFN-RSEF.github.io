@@ -52,6 +52,7 @@ junta:
     text: 'Vocal3.txt'}
 
 premios:
+- {name: '2024-25', url: '2024_25'}
 - {name: '2021-23', url: '2021_23'}
 - {name: 'Ediciones anteriores', url: 'anteriores'}
 
