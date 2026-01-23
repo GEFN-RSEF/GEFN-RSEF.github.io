@@ -2,8 +2,7 @@
 layout: premios
 title: "Premios GEFN-ATI"
 ---
-### Premios GEFN-ATI Sistemas a Tesis Doctorales y a
-Trabajos de Fin de Máster en Física Nuclear 2024-2025
+### Convocatoria 2024-2025
 
 ##### Presentación y Objetivos
 
