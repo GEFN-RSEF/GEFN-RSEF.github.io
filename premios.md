@@ -16,14 +16,14 @@ El plazo de evaluación será de 2 meses a partir de esa fecha. El anuncio de lo
 esta página web.
 
 La convocatoria que se abre en 2026 corresponde a tesis doctorales y de máster presentadas entre 
-2024 y 2025, y está regida por las bases adjuntas [fichero pdf, 869kB](/premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
+el **1 de enero de 2024** y **31 de diciembre de 2025**, y está regida por las bases adjuntas [fichero pdf, 869kB](/premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
 
 Como novedades de esta convocatoria, destacamos:
 - Pueden aspirar al premio tanto candidatos/as que hayan desarrollado su Tesis Doctoral o Trabajo de Fin de Máster en 
-universidades o instituciones españolas, como candidtos/as españoles/as que las hayan desarrollado en universidades 
- instituciones extranjeras. 
-- Las Tesis Doctorales con fecha de defensa entre el 17 de febrero de 2024 y el 31 de diciembre de 2025 podrán ser consideradas para 
-la segunda convocatoria del Premio RSEF-EPJ+ a las Mejores Tesis Doctorales de las Divisiones y Grupos Especializados de la RSEF 
+**universidades o instituciones españolas**, como candidatos/as **españoles/as** que las hayan desarrollado en universidades 
+ instituciones **extranjeras**. 
+- Las Tesis Doctorales con fecha de defensa entre el **17 de febrero de 2024** y el **31 de diciembre de 2025** podrán ser consideradas para 
+la segunda convocatoria del **Premio RSEF-EPJ+** a las Mejores Tesis Doctorales de las Divisiones y Grupos Especializados de la RSEF 
 [fichero pdf, 232kB](https://rsef.es/images/2a_CONVOCATORIA_DEL_PREMIO_RSEF_EPJ_aprobada_JG_18-12-2025.pdf). 
 Para optar a este premio, los candidatos y los supervisores (al menos uno en caso de codirección) han de ser miembros de la RSEF 
 en el momento de presentar la solicitud.
@@ -42,7 +42,7 @@ Se otorgarán premios en las siguientes 3 categorías que cubren el amplio espec
 Para valorar tanto el trabajo de estudiantes de máster como de doctorado, los premios GEFN-ATI 
 reconocerán las mejores **Tesis Doctorales** y **Trabajos de Fin de Máster** en cada una de las 3 categorías anteriores. 
 Podrán optar a estos premios las personas que hayan desarrollado y defendido con éxito su Tesis Doctoral o Trabajo de 
-Fin de Máster entre el **1 de enero de 2021** y el **31 de diciembre de 2023**.
+Fin de Máster entre el **1 de enero de 2024** y el **31 de diciembre de 2025**.
 Solo se aceptarán candidaturas de **Trabajos de Fin de Máster** con una **nota mínima de 9.0**.
 
 ##### Premios
