@@ -4,6 +4,10 @@ title: "Premios GEFN-ATI"
 ---
 ### Convocatoria 2024-2025
 
+<img src="./2024_25/Logo_GEFN.png" height="600">
+<img src="./2024_25/Logo_ATI.png" height="300">
+
+
 ##### Presentación y Objetivos
 
 Los Premios del GEFN y [ATI SISTEMAS](https://atisistemas.com/web/en/home/) son la herramienta que permite reconocer y premiar el esfuerzo 
