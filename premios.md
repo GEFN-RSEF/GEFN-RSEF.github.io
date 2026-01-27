@@ -2,11 +2,11 @@
 layout: premios
 title: "Premios GEFN-ATI"
 ---
-### Convocatoria 2024-2025
 
 <img src="{{ site.github.url }}/premios/2024_25/Logo_GEFN.png" width="20%">
 <img src="{{ site.github.url }}/premios/2024_25/Logo_ATI.png" height="20%">
 
+### Convocatoria 2024-2025
 
 ##### Presentación y Objetivos
 
