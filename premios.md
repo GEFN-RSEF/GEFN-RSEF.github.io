@@ -28,7 +28,7 @@ Como novedades de esta convocatoria, destacamos:
  instituciones **extranjeras**. 
 - Las Tesis Doctorales con fecha de defensa entre el **17 de febrero de 2024** y el **31 de diciembre de 2025** podrán ser consideradas para 
 la segunda convocatoria del **Premio RSEF-EPJ+** a las Mejores Tesis Doctorales de las Divisiones y Grupos Especializados de la RSEF 
-[fichero pdf, 232kB](https://rsef.es/images/2a_CONVOCATORIA_DEL_PREMIO_RSEF_EPJ_aprobada_JG_18-12-2025.pdf). 
+[fichero pdf, 232kB](https://rsef.es/wp-content/uploads/2026/02/2a_CONVOCATORIA_DEL_PREMIO_RSEF_EPJ_aprobada_JG_18-12-2025.pdf). 
 Para optar a este premio, los candidatos y los supervisores (al menos uno en caso de codirección) han de ser miembros de la RSEF 
 en el momento de presentar la solicitud.
 
