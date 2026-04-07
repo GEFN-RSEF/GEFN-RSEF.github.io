@@ -8,94 +8,48 @@ title: "Premios GEFN-ATI"
 
 ### Convocatoria 2024-2025
 
-##### Presentación y Objetivos
+##### Ganadores
 
-Los Premios del GEFN y [ATI SISTEMAS](https://atisistemas.com/web/en/home/) son la herramienta que permite reconocer y premiar el esfuerzo 
-y la calidad del trabajo realizado por los jóvenes investigadores en el campo de la Física Nuclear. 
-El premio busca fomentar la investigación en este campo, así como promover la excelencia académica y científica 
-en las universidades y centros de investigación españoles y de los investigadores españoles jóvenes en el extranjero. 
+El Grupo Especializado de Física Nuclear (GEFN) de la Real Sociedad Española de Física, junto con ATI SISTEMAS, se complacen en anunciar los galardonados de los 
+**Premios GEFN-ATI Sistemas a Tesis Doctorales y a Trabajos de Fin de Máster en Física Nuclear 2024-2025**, destinados a reconocer la excelencia académica e investigadora en el ámbito de la Física Nuclear 
+de los investigadores más jóvenes de nuestro país.
 
-Las tesis que opten a este concurso deberán enviarse antes del **18 de febrero de 2026**. 
-El plazo de evaluación será de 2 meses a partir de esa fecha. El anuncio de los ganadores se hará público mediante 
-esta página web.
+Tras la evaluación de las candidaturas presentadas, la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Física Nuclear Experimental, Física Nuclear Teórica y Aplicaciones de la Física Nuclear:
 
-La convocatoria que se abre en 2026 corresponde a tesis doctorales y de máster presentadas entre 
-el **1 de enero de 2024** y **31 de diciembre de 2025**, y está regida por las bases adjuntas [fichero pdf, 869kB](/premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
-
-Como novedades de esta convocatoria, destacamos:
-- Pueden aspirar al premio tanto candidatos/as que hayan desarrollado su Tesis Doctoral o Trabajo de Fin de Máster en 
-**universidades o instituciones españolas**, como candidatos/as **españoles/as** que las hayan desarrollado en universidades 
- instituciones **extranjeras**. 
-- Las Tesis Doctorales con fecha de defensa entre el **17 de febrero de 2024** y el **31 de diciembre de 2025** podrán ser consideradas para 
-la segunda convocatoria del **Premio RSEF-EPJ+** a las Mejores Tesis Doctorales de las Divisiones y Grupos Especializados de la RSEF 
-[fichero pdf, 232kB](https://rsef.es/wp-content/uploads/2026/02/2a_CONVOCATORIA_DEL_PREMIO_RSEF_EPJ_aprobada_JG_18-12-2025.pdf). 
-Para optar a este premio, los candidatos y los supervisores (al menos uno en caso de codirección) han de ser miembros de la RSEF 
-en el momento de presentar la solicitud.
+***Premios a la Mejor Tesis Doctoral (350€ + invitación para presentar trabajo en la Bienal de Física 2026)***
++ **Andrea Espinosa Rodríguez** (Universidad Complutense de Madrid) por la tesis doctoral *Development of New Technologies in Proton Therapy: Range Verification and FLASH-RT*, defendida en Abril de 2024 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear). 
++ **Gustavo Adolfo Alcalá Escalona** (IFIC) por la tesis doctoral *Beta spectrum shapes study for the prediction of reactors' antineutrino spectra*, defendida en Octubre de 2024 en la Universidad de Valencia (categoría de Física Nuclear Experimental). 
++ **Beatriz Romeo Zaragozano** (University of North Carolina at Chapel Hill) por la tesis doctoral *Toward reliable 0νββ-decay nuclear matrix elements: exploring the potential of measuring γγ-transitions*, defendida en Abril de 2024 en la Universidad de Valencia (categoría de Física Nuclear Teórica). 
 
 
-##### Categorías de los Premios
+***Premios al Mejor Trabajo de Fin de Máster (150€)***
++ **Eva Zabala Sanz de Galdeano** (BCAM, Bilbao) por el trabajo de fin de máster *Super-resolución mediante redes neuronales en Tomografía por Emisión de Positrones cardíaca*, defendido en Septiembre de 2025 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear).
++ **Pablo González-Tarrío Vicente** (Universidad Complutense de Madrid) por el trabajo de fin de máster *Estructura nuclear del núcleo exótico <sup>84</sup>Ge*, defendido en Septiembre de 2024 en la Universidad Complutense de Madrid (categoría de Física Nuclear Experimental).
++ **Daniel Castillo García** (Universidad de Barcelona) por el trabajo de fin de máster *Precision Neutrinoless Double-β Decay Nuclear Matrix Elements*, defendido en Julio de 2024 en la Universidad de Barcelona (categoría de Física Nuclear Teórica).
 
-Se otorgarán premios en las siguientes 3 categorías que cubren el amplio espectro de investigación de la comunidad de Física Nuclear en España:
+Además de estos premios, la Comisión Evaluadora ha tenido a bien conceder los siguientes Accésits:
 
-1. **Física Nuclear Experimental**
-2. **Física Nuclear Teórica**
-3. **Aplicaciones de la Física Nuclear**
+***Accésits Mejor Tesis Doctoral (Diploma sin dotación económica)***
++ **Irene Álvarez Castro Rodríguez** (IFMIF-DONES) por la tesis doctoral *Study and characterisation of the neutron dose received by HFTM specimens in the IFMIF-DONES facility*, defendida en Junio de 2025 en la Universidad de Granada (categoría de Aplicaciones de la Física Nuclear).
++ **Max Pallàs Solís** (GSI Helmholtz Centre for Heavy Ion Research) por la tesis doctoral *Study of neutron-rich β-delayed emitters relevant for understanding the formation of the r-process rare earth-peak around mass A~160*, defendida en Noviembre de 2025 en la Universidad Politécnica de Cataluña (categoría de Física Nuclear Experimental).
++ **Jesús González Rosa** (Universidad de Sevilla) por la tesis doctoral *Weak interactions with nucleons and nuclei at intermediate and high energies: Application to Neutrino Oscillations*, defendida en Diciembre de 2025 en la Universidad de Sevilla (categoría de Física Nuclear Teórica).
 
+***Accésits Mejor Trabajo de Fin de Máster (Diploma sin dotación económica)***
++ **Andrea Sanchis Moltó** (IFIC) por el trabajo de fin de máster *Gamma-Neutron Vision device: first tests of neutron imaging for BNCT and development of the first prototype*, defendida en Julio de 2025 en la Universidad de Valencia (categoría de Aplicaciones de la Física Nuclear). 
++ **Gabriel García de Lorenzo** (Universidad Complutense de Madrid) por el trabajo de fin de máster *Investigación de la estructura nuclear de isótonos con N=50 mediante espectroscopía gamma y fast-timing*, defendida en Septiembre de 2025 en la Universidad Complutense de Madrid (categoría de Física Nuclear Experimental).
++ **Pablo Encarnación Villarroya** (Universidad de Barcelona) por el trabajo de fin de máster *Femtoscopic study of the S=-1 meson-baryon interaction: π-Λ and K-p correlations*, defendido en Julio de 2024 en la Universidad de Barcelona (categoría de Física Nuclear Teórica).
 
-##### Modalidades de los Premios
-Para valorar tanto el trabajo de estudiantes de máster como de doctorado, los premios GEFN-ATI 
-reconocerán las mejores **Tesis Doctorales** y **Trabajos de Fin de Máster** en cada una de las 3 categorías anteriores. 
-Podrán optar a estos premios las personas que hayan desarrollado y defendido con éxito su Tesis Doctoral o Trabajo de 
-Fin de Máster entre el **1 de enero de 2024** y el **31 de diciembre de 2025**.
-Solo se aceptarán candidaturas de **Trabajos de Fin de Máster** con una **nota mínima de 9.0**.
-
-##### Premios
-Se concederá 1 premio para cada 1 de las 3 categorías en las 2 modalidades:
-- **350€** para cada Premio de **Tesis Doctorales**
-- **150€** para cada Premio de **Trabajo de Fin de Máster**
-Si la comisión evaluadora lo estima oportuno, se podrá conceder un máximo de 1 accésit por categoría. 
-Los premiados con un accésit recibirán un Diploma de Reconocimiento. La comisión puede considerar desiertos los premios.
-Los ganadores de las categorías de Tesis Doctoral serán invitados a exponer su trabajo en alguna de las reuniones anuales 
-de la comunidad de Física Nuclear (Reunión Bienal RSEF o Encuentros de Física Nuclear). 
-
-##### Presentación de Candidaturas
-Las candidaturas deberán ser presentadas por los autores de las Tesis o los Trabajos y enviadas por correo electrónico 
-a la dirección del GEFN  <a href="mailto:gefn@nuclear.fis.ucm.es">gefn@nuclear.fis.ucm.es.</a> La presentación de las 
-candidaturas deberá incluir:
-- **Formulario de solicitud** del premio que especificará la categoría a la que se opta, disponibles en formato 
-[Word, 459kB](./2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.docx) 
-aquí y en formato 
-[pdf, 6369kB](./2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.pdf) 
-aquí.
-- **Currículum Vitae** del autor (incluyendo su ORCID o Researcher ID o Scopus ID).
-- **Memoria explicativa** (máximo 2 páginas) del contenido de la Tesis o del Trabajo de Fin de Máster, con una relación de los resultados. 
-La memoria argumentará la calidad e impacto del trabajo, y resumirá las aportaciones más relevantes destacando un máximo de tres publicaciones.
-- **Archivo en formato PDF** con el contenido íntegro del trabajo. 
-- Para **Trabajos de Fin de Máster**: informe justificativo del supervisor (máximo 1 página), donde se especifique la nota otorgada.
-
-##### Plazos del Concurso
-Las tesis que opten a este concurso deberán enviarse antes del **18 de febrero de 2026**. 
-El plazo de evaluación será de 2 meses a partir de esa fecha. 
-El anuncio de los ganadores se hará público mediante esta página web.
+Estos galardones reflejan el compromiso de el GEFN y ATI con el fomento de la investigación joven y la promoción del talento emergente en física nuclear, reconociendo trabajos de alta calidad científica y técnica. 
 
 
 ##### Comisión Evaluadora
-La Junta Directiva del GEFN actuará como Comisión Evaluadora, evitando en lo posible conflictos de interés. Su fallo será inapelable. 
-
-
-##### Criterios de Valoración
-Los criterios de valoración incluirán:
-1. Claridad de exposición de los contenidos científicos
-2. Relevancia, oportunidad y repercusión social y educativa
-3. Utilización de métodos, tecnologías, modelos o análisis novedosos
-4. Interdisciplinaridad del trabajo y de sus resultados, incluyendo la potencial transferencia tecnológica
-5. Apertura de nuevas líneas de investigación
-
-##### Ficheros edición 2024-25:
-- Bases del premio [Fichero pdf, 869kB](./premios/2024_25/Bases-Premios-GEFN-ATI-2425_firmadas.pdf).
-- Formulario de Solicitud [Fichero Word, 472kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.docx) 
-- Formulario de Solicitud [Fichero pdf, 677kB](./premios/2024_25/FORMULARIO-SOLICITUD-GEFN-ATI-2425.pdf) 
-
+La Junta del GEFN ha actuado como Comisión Evaluadora de esta Edicion. 
+La Junta está compuesta por Arnau Rios Huguet (Universidad de Barcelona; presidente), 
+José A. Briz (Universidad Complutense de Madrid; vicepresidente),
+José Antonio Lay Valera (Universidad de Sevilla, secretario-tesorero),
+Paula Ibáñez García (Universidad Complutense de Madrid),
+Saúl Beceiro Novo (Universidad de la Coruña) y 
+Ariel Tarifeño Saldivia (IFIC-CSIC).
 
 
 
