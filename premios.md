@@ -6,15 +6,14 @@ title: "Premios GEFN-ATI"
 <img src="{{ site.github.url }}/premios/2024_25/Logo_GEFN.png" width="20%">
 <img src="{{ site.github.url }}/premios/2024_25/Logo_ATI.png" height="20%">
 
-### Convocatoria 2024-2025
-
-##### Ganadores
+### Convocatoria 2024-2025: Ganadores
 
 El Grupo Especializado de Física Nuclear (GEFN) de la Real Sociedad Española de Física, junto con ATI SISTEMAS, se complacen en anunciar los galardonados de los 
 **Premios GEFN-ATI Sistemas a Tesis Doctorales y a Trabajos de Fin de Máster en Física Nuclear 2024-2025**, destinados a reconocer la excelencia académica e investigadora en el ámbito de la Física Nuclear 
 de los investigadores más jóvenes de nuestro país.
 
-Tras la evaluación de las candidaturas presentadas, la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Física Nuclear Experimental, Física Nuclear Teórica y Aplicaciones de la Física Nuclear:
+Tras la evaluación de las 13 candidaturas de tesis doctorales y 13 candidaturas de trabajos de fin de máster, 
+la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Aplicaciones de la Física Nuclear, Física Nuclear Experimental y Física Nuclear Teórica y :
 
 ***Premios a la Mejor Tesis Doctoral (350€ + invitación para presentar trabajo en la Bienal de Física 2026)***
 + **Andrea Espinosa Rodríguez** (Universidad Complutense de Madrid) por la tesis doctoral *Development of New Technologies in Proton Therapy: Range Verification and FLASH-RT*, defendida en Abril de 2024 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear). 
