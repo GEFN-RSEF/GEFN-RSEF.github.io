@@ -13,7 +13,7 @@ El Grupo Especializado de Física Nuclear (GEFN) de la Real Sociedad Española d
 de los investigadores más jóvenes de nuestro país.
 
 Tras la evaluación de las 13 candidaturas de tesis doctorales y 13 candidaturas de trabajos de fin de máster, 
-la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Aplicaciones de la Física Nuclear, Física Nuclear Experimental y Física Nuclear Teórica y :
+la Comisión Evaluadora ha resuelto conceder los siguientes premios en las categorías de Aplicaciones de la Física Nuclear, Física Nuclear Experimental y Física Nuclear Teórica:
 
 ***Premios a la Mejor Tesis Doctoral (350€ + invitación para presentar trabajo en la Bienal de Física 2026)***
 + **Andrea Espinosa Rodríguez** (Universidad Complutense de Madrid) por la tesis doctoral *Development of New Technologies in Proton Therapy: Range Verification and FLASH-RT*, defendida en Abril de 2024 en la Universidad Complutense de Madrid (categoría de Aplicaciones de la Física Nuclear). 
