@@ -1,5 +1,5 @@
 ---
-layout: premios
+layout: bienal
 title: "Bienal de Física 2026"
 ---
 
