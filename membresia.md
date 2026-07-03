@@ -3,8 +3,6 @@ layout: membresia
 title: "Membresía"
 ---
 
-### Membresia
-
 Si deseas contribuir al fortalecimiento de la comunidad española de Física Nuclear, te animamos a hacerte miembro del Grupo Especializado de Física Nuclear (GEFN). Para ello, es necesario estar afiliado a la Real Sociedad Española de Física (RSEF), cuya inscripción puede realizarse a través del siguiente enlace:
 
 <a href="https://rsef.es/inscripcion-a-la-rsef/">Inscripción a la Real Sociedad Española de Física</a>.
