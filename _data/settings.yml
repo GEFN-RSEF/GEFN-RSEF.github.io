@@ -3,7 +3,7 @@ menu:
 #- {name: 'Notícias', url: '/noticias'}
 - {name: 'Junta', url: '/junta'}
 - {name: 'Premios GEFN-ATI', url: '/premios'}
-- {name: 'Bienal de Física', url: '/bienal'}
+- {name: 'Simposios', url: '/bienal'}
 - {name: 'Membresía', url: '/membresia'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'Contacto', url: '/contact'}
