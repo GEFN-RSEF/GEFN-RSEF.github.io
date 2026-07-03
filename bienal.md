@@ -3,7 +3,7 @@ layout: bienal
 title: "Bienal de Física 2026"
 ---
 
-<img src="{{ site.github.url }}/premios/2024_25/Logo_GEFN.png" width="20%">
+<img src="{{ site.github.url }}/noticias/1501.07274.pdf" width="20%">
 
 ### Bienal 2026 
 
