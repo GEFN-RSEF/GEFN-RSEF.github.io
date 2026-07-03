@@ -1,5 +1,5 @@
 ---
-layout: memebresia
+layout: membresia
 title: "Membresía"
 ---
 
