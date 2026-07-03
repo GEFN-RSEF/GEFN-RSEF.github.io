@@ -3,7 +3,8 @@ menu:
 #- {name: 'Notícias', url: '/noticias'}
 - {name: 'Junta', url: '/junta'}
 - {name: 'Premios GEFN-ATI', url: '/premios'}
-#- {name: 'courses', url: '/courses'}
+- {name: 'Bienal de Física', url: '/bienal'}
+- {name: 'Membresía', url: '/membresia'}
 #- {name: 'cv', url: '/cv'}
 #- {name: 'Contacto', url: '/contact'}
 
@@ -56,6 +57,9 @@ premios:
 - {name: '2021-23', url: '2021_23'}
 - {name: 'Ediciones anteriores', url: 'anteriores'}
 
+
+bienal:
+- {name: '2026', url: '2026'}
 
 social:
 #- {icon: 'github', link: 'https://github.com/LeNPaul'}

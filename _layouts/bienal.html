@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<!--{{ content }}-->
+
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Premios GEFN-ATI Sistemas</h3>
+
+    {{ content }}
+    
+    {% for anio in site.data.settings.bienal %}
+      <p><a href="{{ site.github.url }}/bienal/{{ anio.url}}">{{ anio.name }}</a></p>
+    {% endfor %}
+  </div>
+</div>
+
