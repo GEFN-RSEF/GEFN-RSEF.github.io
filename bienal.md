@@ -5,13 +5,28 @@ title: "Bienal de Física 2026"
 
 ### Bienal 2026 
 
+
+
 El Simposio de Física Nuclear 2026 tendrá lugar en el marco de la 
 <a href="https://bienalfisicasevilla2026.es/RSEF2026">XL Reunión Bienal de la Real Sociedad Española de Física</a>.
 el **Lunes 20** y el **Martes 21** de Julio de 2026 en el **Aula 215**. El programa consistirá en charlas asociadas a 
 la entrega de premios GEFN-ATI 2021-23 y 2024-25 (15+5 minutos) así como contribuciones orales (12+3 minutos).
 Recogeremos las charlas de la Bienal 2026 en esta página web.
 
-### Simposio 2026: programa
+El **Miércoles 22** tendrá lugar el **Simposio Conjunto de los Grupos Especializados de Física Médica y Física Nuclear** (GEFN-GEFM)
+en el **Aula 208**. Los programas de ambos Simposios están disponibles en al web de la Bienal 
+<a href="https://neo.emma.events/rsef2026/program/congress-program">aquí</a>.
+
+
+### Actividades plenarias planeadas (lunes 20)
++ Charla plenaria: Beatriz Jurado (LP2i Bordeaux), *Nuclear reactions at storage rings*
++ Actividad de divulgación: *Física Nuclear: Explorando el diálogo entre Arte y Ciencia*
+++ Proyección de la película: Out of Control. Reports on the Atomic
+Bomb (https://beatrizcaravaggio.com/out-of-control-es/)
+++ Charla: *El núcleo atómico, ¿algo que no deberíamos haber descubierto?* a cargo
+de Manuel Lozano Leyva (Universidad de Sevilla).
+
+### Simposio de Física Nuclear 2026: Programa
 
 <img src="{{ site.github.url }}/bienal/2026/programa.png" width="60%">
 
