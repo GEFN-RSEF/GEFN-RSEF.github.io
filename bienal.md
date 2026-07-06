@@ -3,27 +3,25 @@ layout: bienal
 title: "Bienal de Física 2026"
 ---
 
-<img src="{{ site.github.url }}/noticias/1501.07274.pdf" width="20%">
-
 ### Bienal 2026 
 
 El Simposio de Física Nuclear 2026 tendrá lugar en el marco de la 
 <a href="https://bienalfisicasevilla2026.es/RSEF2026">XL Reunión Bienal de la Real Sociedad Española de Física</a>.
-el Lunes 20 y el Martes 21 de Julio de 2026 en el aula 215. El programa consistirá en charlas asociadas a 
+el **Lunes 20** y el **Martes 21** de Julio de 2026 en el **Aula 215**. El programa consistirá en charlas asociadas a 
 la entrega de premios GEFN-ATI 2021-23 y 2024-25 (15+5 minutos) así como contribuciones orales (12+3 minutos).
 Recogeremos las charlas de la Bienal 2026 en esta página web.
 
 ### Simposio 2026: programa
 
-<img src="{{ site.github.url }}/bienal/2026/programa.png" width="80%">
+<img src="{{ site.github.url }}/bienal/2026/programa.png" width="60%">
 
 ### Lunes, 20 de Julio 
-#### Premios GEFN-ATI 2021-23 
+#### Premios GEFN-ATI 2021-23 [15+5 mins]
 + Jesús José Domínguez-Palacios Durán, (Fiat Lux LCC), *3D hybrid kinetic-MHD modelling of the interaction between edge localised modes and energetic particles in the ASDEX upgrade tokamak*
 + Juan Lois Fuentes (LPC Caen), *Tensor Force Fingerprints in ²⁰O: The quenching of the Z=6 gap studied with ACTAR TPC*
 
-#### Contribuciones Orales
-+ Rafael Garcia-Tenorio, (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio*
+#### Contribuciones Orales [12+3 mins]
++ Rafael Garcia-Tenorio (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio*
 + Lucas Garrido-Gómez (Universidad de Sevilla), *A novel optical model protocol for nuclear reaction analyses at near-barrier energies*
 + Bernardo Bernardino Gameiro (IFIC), *¹⁴⁶Nd(n,γ) activation at n_TOF NEAR: bayesian-optimised HPGe modelling and first results of the SACS*
 + Jesús Bartolomé Sarsa (CNA), *Commissioning and perspectives of the new moderator for thermal neutrons at CNA HiSPANoS*
@@ -33,6 +31,21 @@ Recogeremos las charlas de la Bienal 2026 en esta página web.
 + Alejandro Vegas Díaz (Universidad de Sevilla & CNA), *Direct and indirect low-energy reaction studies with light nuclei at CNA*
 + Ariel Tarifeño (IFIC), *Towards a free-neutron target for direct neutron-induced reaction measurements on radioactive nuclei in storage rings*
 
+### Martes, 21 de Julio 
+#### Premios GEFN-ATI 2024-25 [15+5 mins]
++ Beatriz Romeo Zaragozano (University of North Carolina), *Testing Fundamental Symmetries with Nuclei*
++ Gustavo Adolfo Alcalá Escalona (IFIC), *Study of Beta Decay Spectra Shapes for Predictions of Reactor Antineutrino Spectra*
+
+#### Contribuciones Orales [12+3 mins]
++ Mauricio Rodríguez Ramos (CNA), *Advanced characterization of radiation sensors at high temperatures using the CNA tandem accelerator*
++ Miguel Fernández Suárez (Universidad de Barcelona & ICCUB), *Dynamic neural quantum states*
++ Carmen Torres-Muñoz (CNA), *Study of carrier transport enhancement in 4H-SiC radiation detectors through thermal and optical excitation*
++ Juan Manuel Cornejo (Universidad de Cádiz), *Development of a compact cryogenic platform for multi-Penning-trap experiments*
++ Francisco Barranco (Universidad de Sevilla), *The nuclear Josephson effect & γ-ray emission*
++ Asunción Fernández (Materials Science Institute of Seville, CSIC), *From a material developed for the control of optical properties to innovative helium targets fabrication for fundamental studies of nuclear reactions*
++ Laura Muñoz Muñoz (UCM), *Origen de la estadística espectral intermedia en caos cuántico: grado de caos y niveles perdidos*
++ Carles Domingo (UAB), *A passive extended range Bonner sphere spectrometer for neutron measurements at the ALBA synchrotron injection LINAC*
++ Gabriel Auñón-Fernández (CNA), *Upgrades at CNA HiSPANoS for continuous and pulsed (α,n) measurements within MANY*
 
 
 ### Más información y ediciones anteriores
