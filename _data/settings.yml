@@ -59,7 +59,7 @@ premios:
 
 
 bienal:
-- {name: '2026', url: '2026'}
+- {name: '2026', url: 'bienal_2026'}
 
 social:
 #- {icon: 'github', link: 'https://github.com/LeNPaul'}
