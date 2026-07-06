@@ -2,7 +2,7 @@ menu:
 #- {name: 'publications', url: '/publications'}
 #- {name: 'Notícias', url: '/noticias'}
 - {name: 'Junta', url: '/junta'}
-- {name: 'Premios GEFN-ATI', url: '/premios'}
+- {name: 'Premios', url: '/premios'}
 - {name: 'Simposios', url: '/bienal'}
 - {name: 'Membresía', url: '/membresia'}
 #- {name: 'cv', url: '/cv'}

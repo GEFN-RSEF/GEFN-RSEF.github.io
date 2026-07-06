@@ -1,6 +1,6 @@
 ---
 layout: premios
-title: "Premios GEFN-ATI"
+title: "Premios"
 ---
 
 <img src="{{ site.github.url }}/premios/2024_25/Logo_GEFN.png" width="20%">
