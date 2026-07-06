@@ -7,6 +7,32 @@ title: "Bienal de Física 2026"
 
 ### Bienal 2026 
 
+El Simposio de Física Nuclear 2026 tendrá lugar en el marco de la 
+<a href="https://bienalfisicasevilla2026.es/RSEF2026">XL Reunión Bienal de la Real Sociedad Española de Física</a>.
+el Lunes 20 y el Martes 21 de Julio de 2026 en el aula 215. El programa consistirá en charlas asociadas a 
+la entrega de premios GEFN-ATI 2021-23 y 2024-25 (15+5 minutos) así como contribuciones orales (12+3 minutos).
+Recogeremos las charlas de la Bienal 2026 en esta página web.
+
+### Simposio 2026: programa
+
+<img src="{{ site.github.url }}/bienal/2026/programa.png" width="80%">
+
+### Lunes, 20 de Julio 
+#### Premios GEFN-ATI 2021-23 
++ Jesús José Domínguez-Palacios Durán, (Fiat Lux LCC), *3D hybrid kinetic-MHD modelling of the interaction between edge localised modes and energetic particles in the ASDEX upgrade tokamak*
++ Juan Lois Fuentes (LPC Caen), *Tensor Force Fingerprints in ²⁰O: The quenching of the Z=6 gap studied with ACTAR TPC*
+
+#### Contribuciones Orales
++ Rafael Garcia-Tenorio, (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio*
++ Lucas Garrido-Gómez (Universidad de Sevilla), *A novel optical model protocol for nuclear reaction analyses at near-barrier energies*
++ Bernardo Bernardino Gameiro (IFIC), *¹⁴⁶Nd(n,γ) activation at n_TOF NEAR: bayesian-optimised HPGe modelling and first results of the SACS*
++ Jesús Bartolomé Sarsa (CNA), *Commissioning and perspectives of the new moderator for thermal neutrons at CNA HiSPANoS*
++ Arnau Morón Rodríguez (Universidad de Barcelona & ICCUB), *High-precision nuclear structure simulations on NISQ quantum devices*
++ Max Pallàs Solís (TU Darmstadt & GSI), *Study of neutron-rich β-delayed emitters relevant for understanding the formation of the r-process rare earth-peak around mass A~160*
++ Manuela Rodríguez Gallardo (Universidad de Sevilla), *Probing the structure of the two-proton borromean nucleus 17Ne through inclusive breakup data*
++ Alejandro Vegas Díaz (Universidad de Sevilla & CNA), *Direct and indirect low-energy reaction studies with light nuclei at CNA*
++ Ariel Tarifeño (IFIC), *Towards a free-neutron target for direct neutron-induced reaction measurements on radioactive nuclei in storage rings*
+
 
 
 ### Más información y ediciones anteriores
