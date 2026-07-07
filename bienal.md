@@ -19,7 +19,7 @@ en el **Aula 208**. Los programas de ambos Simposios están disponibles en la we
 ### Actividades plenarias planeadas (Lunes 20)
 + Charla plenaria: Beatriz Jurado (LP2i Bordeaux), *Nuclear reactions at storage rings*
 + Actividad de divulgación: *Física Nuclear: Explorando el diálogo entre Arte y Ciencia*
-    + Proyección de la película: Out of Control. Reports on the Atomic Bomb (<a href="https://bienalfisicasevilla2026.es/RSEF2026">https://beatrizcaravaggio.com/out-of-control-es/</a>)
+    + Proyección de la película: Out of Control. Reports on the Atomic Bomb (<a href="https://beatrizcaravaggio.com/out-of-control-es/">https://beatrizcaravaggio.com/out-of-control-es/</a>)
     + Charla: *El núcleo atómico, ¿algo que no deberíamos haber descubierto?* a cargo
 de Manuel Lozano Leyva (Universidad de Sevilla).
 
