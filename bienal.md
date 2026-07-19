@@ -56,7 +56,6 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 + Francisco Barranco (Universidad de Sevilla), *The nuclear Josephson effect & γ-ray emission*
 + Asunción Fernández (Materials Science Institute of Seville, CSIC), *From a material developed for the control of optical properties to innovative helium targets fabrication for fundamental studies of nuclear reactions*
 + Laura Muñoz Muñoz (UCM), *Origen de la estadística espectral intermedia en caos cuántico: grado de caos y niveles perdidos*
-+ Carles Domingo (UAB), *A passive extended range Bonner sphere spectrometer for neutron measurements at the ALBA synchrotron injection LINAC*
 + Gabriel Auñón-Fernández (CNA), *Upgrades at CNA HiSPANoS for continuous and pulsed (α,n) measurements within MANY*
 
 
