@@ -49,7 +49,7 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 + Gustavo Adolfo Alcalá Escalona (IFIC), *Study of Beta Decay Spectra Shapes for Predictions of Reactor Antineutrino Spectra*
 
 #### Contribuciones Orales [12+3 mins]
-+ Mauricio Rodríguez Ramos (CNA), *Advanced characterization of radiation sensors at high temperatures using the CNA tandem accelerator*
++ Mauricio Rodríguez Ramos (CNA), *Advanced characterization of radiation sensors at high temperatures using the CNA tandem accelerator* <a href="/bienal/2026/talks/RodríguezRamos_Bienal26.pdf">(pdf, 8.1Mb)</a>
 + Miguel Fernández Suárez (Universidad de Barcelona & ICCUB), *Dynamic neural quantum states*
 + Carmen Torres-Muñoz (CNA), *Study of carrier transport enhancement in 4H-SiC radiation detectors through thermal and optical excitation*
 + Juan Manuel Cornejo (Universidad de Cádiz), *Development of a compact cryogenic platform for multi-Penning-trap experiments*
