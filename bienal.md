@@ -29,7 +29,7 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 
 ### Lunes, 20 de Julio 
 #### Premios GEFN-ATI 2021-23 [15+5 mins]
-+ Jesús José Domínguez-Palacios Durán, (Fiat Lux LCC), *3D hybrid kinetic-MHD modelling of the interaction between edge localised modes and energetic particles in the ASDEX upgrade tokamak*
++ Jesús José Domínguez-Palacios Durán, (Fiat Lux LCC), *3D hybrid kinetic-MHD modelling of the interaction between edge localised modes and energetic particles in the ASDEX upgrade tokamak* <a href="/bienal/2026/talks/DominguezPalacios_Bienal26.pdf">(pdf, 6.6Mb)</a>
 + Juan Lois Fuentes (LPC Caen), *Tensor Force Fingerprints in ²⁰O: The quenching of the Z=6 gap studied with ACTAR TPC*
 
 #### Contribuciones Orales [12+3 mins]
