@@ -55,7 +55,7 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 + Juan Manuel Cornejo (Universidad de Cádiz), *Development of a compact cryogenic platform for multi-Penning-trap experiments*
 + Francisco Barranco (Universidad de Sevilla), *The nuclear Josephson effect & γ-ray emission*
 + Asunción Fernández (Materials Science Institute of Seville, CSIC), *From a material developed for the control of optical properties to innovative helium targets fabrication for fundamental studies of nuclear reactions*
-+ Laura Muñoz Muñoz (UCM), *Origen de la estadística espectral intermedia en caos cuántico: grado de caos y niveles perdidos*
++ Laura Muñoz Muñoz (UCM), *Origen de la estadística espectral intermedia en caos cuántico: grado de caos y niveles perdidos* <a href="/bienal/2026/talks/Munoz_Bienal26.pdf">(pdf, 3.6Mb)</a>
 + Gabriel Auñón-Fernández (CNA), *Upgrades at CNA HiSPANoS for continuous and pulsed (α,n) measurements within MANY*
 
 
