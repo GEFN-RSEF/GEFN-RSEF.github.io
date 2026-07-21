@@ -45,18 +45,18 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 
 ### Martes, 21 de Julio 
 #### Premios GEFN-ATI 2024-25 [15+5 mins]
-+ Beatriz Romeo Zaragozano (University of North Carolina), *Testing Fundamental Symmetries with Nuclei*
++ Beatriz Romeo Zaragozano (University of North Carolina), *Testing Fundamental Symmetries with Nuclei* <a href="/bienal/2026/talks/Romeo_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 29.8Mb)</a>
 + Gustavo Adolfo Alcalá Escalona (IFIC), *Study of Beta Decay Spectra Shapes for Predictions of Reactor Antineutrino Spectra*
 
 #### Contribuciones Orales [12+3 mins]
 + Mauricio Rodríguez Ramos (CNA), *Advanced characterization of radiation sensors at high temperatures using the CNA tandem accelerator* <a href="/bienal/2026/talks/RodríguezRamos_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 8.1Mb)</a>
-+ Miguel Fernández Suárez (Universidad de Barcelona & ICCUB), *Dynamic neural quantum states*
++ Miguel Fernández Suárez (Universidad de Barcelona & ICCUB), *Dynamic neural quantum states* <a href="/bienal/2026/talks/Fernandez_Suarez_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 2.7Mb)</a>
 + Carmen Torres-Muñoz (CNA), *Study of carrier transport enhancement in 4H-SiC radiation detectors through thermal and optical excitation*
 + Juan Manuel Cornejo (Universidad de Cádiz), *Development of a compact cryogenic platform for multi-Penning-trap experiments*
-+ Francisco Barranco (Universidad de Sevilla), *The nuclear Josephson effect & γ-ray emission*
-+ Asunción Fernández (Materials Science Institute of Seville, CSIC), *From a material developed for the control of optical properties to innovative helium targets fabrication for fundamental studies of nuclear reactions*
++ Francisco Barranco (Universidad de Sevilla), *The nuclear Josephson effect & γ-ray emission* <a href="/bienal/2026/talks/Barranco_Bienal26.pptx" target="_blank" rel="noopener noreferrer">(pdf, 4.1Mb)</a>
++ Asunción Fernández (Materials Science Institute of Seville, CSIC), *From a material developed for the control of optical properties to innovative helium targets fabrication for fundamental studies of nuclear reactions* <a href="/bienal/2026/talks/Fernandez_Bienal26_Bienal26.pptx" target="_blank" rel="noopener noreferrer">(pdf, 5.6Mb)</a>
 + Laura Muñoz Muñoz (UCM), *Origen de la estadística espectral intermedia en caos cuántico: grado de caos y niveles perdidos* <a href="/bienal/2026/talks/Munoz_Bienal26.pdf target="_blank" rel="noopener noreferrer"">(pdf, 3.6Mb)</a>
-+ Gabriel Auñón-Fernández (CNA), *Upgrades at CNA HiSPANoS for continuous and pulsed (α,n) measurements within MANY*
++ Gabriel Auñón-Fernández (CNA), *Upgrades at CNA HiSPANoS for continuous and pulsed (α,n) measurements within MANY* <a href="/bienal/2026/talks/RodriguezGallardo_Bienal26.pdf target="_blank" rel="noopener noreferrer"">(pdf, 3.6Mb)</a>
 
 
 ### Más información y ediciones anteriores
