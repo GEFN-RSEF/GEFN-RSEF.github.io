@@ -34,14 +34,14 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 
 #### Contribuciones Orales [12+3 mins]
 + Rafael Garcia-Tenorio (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio* <a href="/bienal/2026/talks/GarciaTenorio_Bienal26.pptx" target="_blank" rel="noopener noreferrer">(pptx, 8.0Mb)</a>
-+ Lucas Garrido-Gómez (Universidad de Sevilla), *A novel optical model protocol for nuclear reaction analyses at near-barrier energies*
-+ Bernardo Bernardino Gameiro (IFIC), *¹⁴⁶Nd(n,γ) activation at n_TOF NEAR: bayesian-optimised HPGe modelling and first results of the SACS*
-+ Jesús Bartolomé Sarsa (CNA), *Commissioning and perspectives of the new moderator for thermal neutrons at CNA HiSPANoS*
-+ Arnau Morón Rodríguez (Universidad de Barcelona & ICCUB), *High-precision nuclear structure simulations on NISQ quantum devices*
-+ Max Pallàs Solís (TU Darmstadt & GSI), *Study of neutron-rich β-delayed emitters relevant for understanding the formation of the r-process rare earth-peak around mass A~160*
++ Lucas Garrido-Gómez (Universidad de Sevilla), *A novel optical model protocol for nuclear reaction analyses at near-barrier energies* <a href="/bienal/2026/talks/GarridoGomez_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 6.5Mb)</a>
++ Bernardo Bernardino Gameiro (IFIC), *¹⁴⁶Nd(n,γ) activation at n_TOF NEAR: bayesian-optimised HPGe modelling and first results of the SACS* <a href="/bienal/2026/talks/Presentation_Bienal_2026_BGameiro.pdf" target="_blank" rel="noopener noreferrer">(pdf, 9.9Mb)</a>
++ Jesús Bartolomé Sarsa (CNA), *Commissioning and perspectives of the new moderator for thermal neutrons at CNA HiSPANoS*  <a href="/bienal/2026/talks/Bartolome_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 1.8Mb)</a>
++ Arnau Morón Rodríguez (Universidad de Barcelona & ICCUB), *High-precision nuclear structure simulations on NISQ quantum devices* <a href="/bienal/2026/talks/Moron_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 1.1Mb)</a>
++ Max Pallàs Solís (TU Darmstadt & GSI), *Study of neutron-rich β-delayed emitters relevant for understanding the formation of the r-process rare earth-peak around mass A~160* <a href="/bienal/2026/talks/Pallas_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 11Mb)</a>
 + Manuela Rodríguez Gallardo (Universidad de Sevilla), *Probing the structure of the two-proton borromean nucleus 17Ne through inclusive breakup data*
-+ Alejandro Vegas Díaz (Universidad de Sevilla & CNA), *Direct and indirect low-energy reaction studies with light nuclei at CNA*
-+ Ariel Tarifeño (IFIC), *Towards a free-neutron target for direct neutron-induced reaction measurements on radioactive nuclei in storage rings*
++ Alejandro Vegas Díaz (Universidad de Sevilla & CNA), *Direct and indirect low-energy reaction studies with light nuclei at CNA* <a href="/bienal/2026/talks/Vegas_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 5.9Mb)</a>
++ Ariel Tarifeño (IFIC), *Towards a free-neutron target for direct neutron-induced reaction measurements on radioactive nuclei in storage rings* <a href="/bienal/2026/talks/Tarifeño_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 54Mb)</a>
 
 ### Martes, 21 de Julio 
 #### Premios GEFN-ATI 2024-25 [15+5 mins]
