@@ -30,10 +30,10 @@ de Manuel Lozano Leyva (Universidad de Sevilla).
 ### Lunes, 20 de Julio 
 #### Premios GEFN-ATI 2021-23 [15+5 mins]
 + Jesús José Domínguez-Palacios Durán, (Fiat Lux LCC), *3D hybrid kinetic-MHD modelling of the interaction between edge localised modes and energetic particles in the ASDEX upgrade tokamak* <a href="/bienal/2026/talks/DominguezPalacios_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 6.6Mb)</a>
-+ Juan Lois Fuentes (LPC Caen), *Tensor Force Fingerprints in ²⁰O: The quenching of the Z=6 gap studied with ACTAR TPC*
++ Juan Lois Fuentes (LPC Caen), *Tensor Force Fingerprints in ²⁰O: The quenching of the Z=6 gap studied with ACTAR TPC* <a href="/bienal/2026/talks/Lois_Bienal26.pdf" target="_blank" rel="noopener noreferrer">(pdf, 4.6Mb)</a>
 
 #### Contribuciones Orales [12+3 mins]
-+ Rafael Garcia-Tenorio (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio*
++ Rafael Garcia-Tenorio (Universidad de Sevilla), *Palomares: un “laboratorio natural” para estudios radioecológicos del plutonio* <a href="/bienal/2026/talks/GarciaTenorio_Bienal26.pptx" target="_blank" rel="noopener noreferrer">(pptx, 8.0Mb)</a>
 + Lucas Garrido-Gómez (Universidad de Sevilla), *A novel optical model protocol for nuclear reaction analyses at near-barrier energies*
 + Bernardo Bernardino Gameiro (IFIC), *¹⁴⁶Nd(n,γ) activation at n_TOF NEAR: bayesian-optimised HPGe modelling and first results of the SACS*
 + Jesús Bartolomé Sarsa (CNA), *Commissioning and perspectives of the new moderator for thermal neutrons at CNA HiSPANoS*
